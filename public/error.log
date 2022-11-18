@@ -1,0 +1,52 @@
+[Fri Nov 18 10:53:30.741383 2022] [core:error] [pid 12178] [client 127.0.0.1:46034] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 10:53:33.708049 2022] [core:error] [pid 12178] [client 127.0.0.1:46034] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 10:54:10.989892 2022] [core:error] [pid 12179] [client 127.0.0.1:58890] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 10:54:11.598006 2022] [core:error] [pid 12179] [client 127.0.0.1:58890] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 10:54:21.688181 2022] [core:error] [pid 12180] [client 127.0.0.1:36392] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 10:54:21.714582 2022] [core:error] [pid 12180] [client 127.0.0.1:36392] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:11.302868 2022] [core:error] [pid 12615] [client 127.0.0.1:43320] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:11.357676 2022] [core:error] [pid 12615] [client 127.0.0.1:43320] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:11.882153 2022] [core:error] [pid 12617] [client 127.0.0.1:43322] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:11.915778 2022] [core:error] [pid 12617] [client 127.0.0.1:43322] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:12.108096 2022] [core:error] [pid 12616] [client 127.0.0.1:43338] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:12.139794 2022] [core:error] [pid 12616] [client 127.0.0.1:43338] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:12.309803 2022] [core:error] [pid 12618] [client 127.0.0.1:43346] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:12.342922 2022] [core:error] [pid 12618] [client 127.0.0.1:43346] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:12.509773 2022] [core:error] [pid 12619] [client 127.0.0.1:43350] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:12.544536 2022] [core:error] [pid 12619] [client 127.0.0.1:43350] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:12.726970 2022] [core:error] [pid 12628] [client 127.0.0.1:43356] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:12.759033 2022] [core:error] [pid 12628] [client 127.0.0.1:43356] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:12.925307 2022] [core:error] [pid 12615] [client 127.0.0.1:43368] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:12.955599 2022] [core:error] [pid 12615] [client 127.0.0.1:43368] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:13.127357 2022] [core:error] [pid 12617] [client 127.0.0.1:43376] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:13.159249 2022] [core:error] [pid 12617] [client 127.0.0.1:43376] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:13.317362 2022] [core:error] [pid 12616] [client 127.0.0.1:43378] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:13.355170 2022] [core:error] [pid 12616] [client 127.0.0.1:43378] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:13.511706 2022] [core:error] [pid 12618] [client 127.0.0.1:43394] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:13.541300 2022] [core:error] [pid 12618] [client 127.0.0.1:43394] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:08:15.150635 2022] [core:error] [pid 12618] [client 127.0.0.1:43394] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:15.368820 2022] [core:error] [pid 12618] [client 127.0.0.1:43394] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:15.599993 2022] [core:error] [pid 12618] [client 127.0.0.1:43394] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:15.968052 2022] [core:error] [pid 12618] [client 127.0.0.1:43394] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:08:16.373561 2022] [core:error] [pid 12618] [client 127.0.0.1:43394] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:14.597642 2022] [core:error] [pid 12706] [client 127.0.0.1:43036] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:15.262333 2022] [core:error] [pid 12706] [client 127.0.0.1:43036] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:15.479636 2022] [core:error] [pid 12706] [client 127.0.0.1:43036] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:15.651220 2022] [core:error] [pid 12706] [client 127.0.0.1:43036] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:15.864562 2022] [core:error] [pid 12706] [client 127.0.0.1:43036] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:16.047667 2022] [core:error] [pid 12706] [client 127.0.0.1:43036] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:16.246446 2022] [core:error] [pid 12706] [client 127.0.0.1:43036] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:16.450604 2022] [core:error] [pid 12706] [client 127.0.0.1:43036] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:17.458448 2022] [core:error] [pid 12707] [client 127.0.0.1:46608] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:09:17.488090 2022] [core:error] [pid 12707] [client 127.0.0.1:46608] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:12:03.330797 2022] [core:error] [pid 12930] [client 127.0.0.1:35316] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:12:03.368423 2022] [core:error] [pid 12930] [client 127.0.0.1:35316] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:12:03.984209 2022] [core:error] [pid 12931] [client 127.0.0.1:35318] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:12:04.013194 2022] [core:error] [pid 12931] [client 127.0.0.1:35318] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test, referer: http://onlinestore.test/
+[Fri Nov 18 11:12:04.894316 2022] [core:error] [pid 12931] [client 127.0.0.1:35318] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:12:05.224517 2022] [core:error] [pid 12931] [client 127.0.0.1:35318] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:12:05.442662 2022] [core:error] [pid 12931] [client 127.0.0.1:35318] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:13:36.530976 2022] [core:error] [pid 12933] [client 127.0.0.1:52492] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:13:37.329520 2022] [core:error] [pid 12933] [client 127.0.0.1:52492] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:13:37.814125 2022] [core:error] [pid 12933] [client 127.0.0.1:52492] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
+[Fri Nov 18 11:13:39.124017 2022] [core:error] [pid 12933] [client 127.0.0.1:52492] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/onlinestore.test
