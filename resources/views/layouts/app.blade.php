@@ -57,7 +57,7 @@
                 Copyright - <a class="text-reset fw-bold text-decoration-none" target="_blank"
                     href="https://twitter.com/danielgarax">
                     Daniel Correa
-                </a> - <b>Paola Vallejo</b>
+                </a> - <b>Pao</b>
             </small>
         </div>
     </div>
